@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Hedder from "./hedder"
 import Swiper from "./swiper"
 import LowerHedder from "./lowerheder"
+import Donationform from "./donationForm"
 export default  class Dashbord extends Component{
     render() {
         return (
@@ -14,7 +15,7 @@ export default  class Dashbord extends Component{
                 <div><Hedder /></div>
                 <div><LowerHedder /></div>
                 <div><Swiper /></div>
-               
+               <div><Donationform /></div>
             </div>
         );
     }
