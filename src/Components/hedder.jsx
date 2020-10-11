@@ -24,7 +24,7 @@ export default function Hedder() {
 
   return (
     <div className={classes.root}>
-      <AppBar style={{ backgroundColor: "#243238" }} position="static">
+      <AppBar style={{ backgroundColor: "#243238" }} >
         <Toolbar>
           <div className="hedderContainer">
           <div className="launchcontainer">

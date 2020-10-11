@@ -1,0 +1,24 @@
+.lowerhedderContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+  width: 100%;
+}
+.logo{
+   padding-top: 12px;
+}
+.iconStyle{
+    padding-top: 22px;
+ color: white;
+ 
+padding-right: 30px;
+}
+nav.scrolled {
+    background: #0a0a0a;
+  }
+.iconContainer{
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+}

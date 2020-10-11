@@ -4,6 +4,7 @@ import swiperslide1 from '../Assetes/swiperslide1.jpg'
 import swiperslide2 from '../Assetes/swiperslide2.jpg'
 import "../Styles/swiper.scss"
 import "bootstrap/dist/css/bootstrap.min.css";
+import LowerHedder from "./lowerheder"
 export default  class Swiper extends Component{
     render() {
         return (
@@ -19,6 +20,7 @@ export default  class Swiper extends Component{
                     alt="First slide"
                   />
                   <Carousel.Caption>
+                 
                   <div className="captionContainer">
                     <div className="SaveTextStyle">SAVE</div>
                     <div className="wildCatstextstyle">WILD CATS</div>
@@ -39,6 +41,7 @@ export default  class Swiper extends Component{
                   />
 
                   <Carousel.Caption>
+                 
                   <div className="captionContainer">
                     <div className="SaveTextStyle">MAKE</div>
                     <div className="wildCatstextstyle">CATS SAFE</div>
