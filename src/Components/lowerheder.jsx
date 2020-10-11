@@ -19,25 +19,16 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-export default function Hedder() {
+export default function LowerHedder() {
   const classes = useStyles();
 
   return (
     <div className={classes.root}>
       <AppBar style={{ backgroundColor: "#243238" }} position="static">
         <Toolbar>
-          <div className="hedderContainer">
-          <div className="launchcontainer">
-         <div className="headerName">WildLife - Wild Life Multipage Creative HTML Website Temp...</div>
-         <LaunchIcon style={{color:" #B0D2ED"}} />
-         </div>
-         <div className="buttonContainer">
-         <button className="cartbutton"> <div><ShoppingCartOutlinedIcon /> </div>  <div> Add To Cart </div></button>
-         </div>
-         <div className="heart">
-         <FavoriteBorderOutlinedIcon />
-         </div>
-         </div>
+        <div>
+            
+        </div>
         </Toolbar>
       </AppBar>
     </div>
