@@ -8,6 +8,7 @@ import Hedder from "./hedder"
 import Swiper from "./swiper"
 import LowerHedder from "./lowerheder"
 import Donationform from "./donationForm"
+import MonyDonated from "./monydonated"
 export default  class Dashbord extends Component{
     render() {
         return (
@@ -16,6 +17,7 @@ export default  class Dashbord extends Component{
                 <div><LowerHedder /></div>
                 <div><Swiper /></div>
                <div><Donationform /></div>
+               <div><MonyDonated /></div>
             </div>
         );
     }

@@ -6,8 +6,10 @@ export default function Donationform() {
   return (
       <div className="donationContainer">
           <div className="dropdown">
-          <select name="Select An Amount" className="selectAmount">
-        
+          <select value="Select An Amount" className="selectAmount">
+          <option value="$100" className="options">
+          Select An Amount
+          </option>
           <option value="$100" className="options">
             $100
           </option>
@@ -25,7 +27,7 @@ export default function Donationform() {
           </div>
           <div><input type="text" placeholder="Email" className="name"/></div>
           <div>
-        <Button className="button" className="donatebutton">DONATE NOW</Button>
+        <button  className="donatebutton">DONATE NOW</button>
       </div>
       </div>
   );}

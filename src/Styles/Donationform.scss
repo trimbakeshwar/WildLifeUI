@@ -12,34 +12,41 @@ background-color: #424649;
 color: #C9CACB;
 width:250px;
 height: 48px;
+font-size: 15px;
 padding:5px;
 margin-left: 20px;
+border-radius: 5px;
 }
-.options {
-    background-color: #424649;
-    color: #C9CACB;
-    width:250px;
-    height: 50px;
-  
-}
-.select:hover{
-    background-color:#FEBF1C !important;
-}
+
 
 
 .name {
     background-color: #424649;
     color: #C9CACB;
-    width:250px;
+    width:260px;
     height: 50px;
+    font-size: 15px;
+    border-radius: 5px;
     margin-left: 20px;
-    padding:5px;
+   padding-left: 20px;
 }
 .donatebutton{
-    background-color: #424649;
-    color: #C9CACB;
+    background-color: #FEBF1C;
+    color: #FFFFFF;
     margin-left: 20px;
-    width:200px;
+    font-size: 15px;
+    width:230px;
+    height: 49px;
+    border-radius: 5px;
+    padding:5px;
+}
+.donatebutton:hover{
+    background-color: white;
+    color:#FEBF1C;
+    font-size: 15px;
+    margin-left: 20px;
+    width:230px;
     height: 48px;
+    border-radius: 5px;
     padding:5px;
 }

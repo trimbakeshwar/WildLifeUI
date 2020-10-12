@@ -1,0 +1,33 @@
+.donatedContainer{
+min-height: 500px;
+
+} 
+.backhedding{
+    font-size: 85px;
+    line-height: 1em;
+    font-weight: 800;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);;
+    color: transparent;
+    padding-top: 1em;
+    height: 170px;
+  
+}
+.fronthedding{
+    font-size: 50px;
+    line-height: 1em;
+    font-weight: 700;
+    color:black;
+    position: relative;
+    bottom: 1.3em;
+  
+}
+.description{
+    margin-left: 27%;
+    width: 45%;
+    color: #887058;
+    position: relative;
+    bottom: 30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+   
+}
