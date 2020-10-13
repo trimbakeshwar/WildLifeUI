@@ -1,7 +1,33 @@
 
-.elephantimage{
-    width:100%;
-  
-    background-image: url("../Assetes/Elephant.jpg");
+
+.elephanthedding{
+position: relative;
+bottom: 360px;
+right: 40px;
+color: white;
+font-size: 80px;
+font-weight: 650;
+height: 100px;
+} 
+
+.ReadMorebuttonss{
+    height: 65px;
+    width: 160px;
+position: relative;
+bottom: 340px;
+right: 40px;
+  border-radius: 5px;
+  background-color:white ; 
+     color: black;
+     
+     font-weight:600 ;
+ }
+ .ReadMorebuttonss:hover{
+     background-color:#FEBF1C ; 
+     color: white;
+ }
+.timeStyle{
+    -webkit-text-stroke: 2px #ffffff;
+    color: transparent;
 
 }

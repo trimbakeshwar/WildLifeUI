@@ -10,6 +10,7 @@ import LowerHedder from "./lowerheder"
 import Donationform from "./donationForm"
 import MonyDonated from "./monydonated"
 import ElephantCompo from "./elephantCompo"
+import SavedAnimal from "./savedAnimal"
 export default  class Dashbord extends Component{
     render() {
         return (
@@ -20,6 +21,7 @@ export default  class Dashbord extends Component{
                <div><Donationform /></div>
                <div><MonyDonated /></div>
                <div><ElephantCompo /></div>
+               <div><SavedAnimal/></div>
             </div>
         );
     }
