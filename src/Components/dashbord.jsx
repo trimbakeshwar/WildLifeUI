@@ -15,6 +15,7 @@ import AboutWildLife from "./aboutwildlife"
 import InfoCompo from "./infoCompo"
 import TigerBackground from "./tigerBackground"
 import LetestNews from "./letestNews"
+import ZebraCompo from "./ZebraCompo"
 export default  class Dashbord extends Component{
     render() {
         return (
@@ -30,6 +31,7 @@ export default  class Dashbord extends Component{
                <div><InfoCompo/></div>
                <div><TigerBackground/></div>
                <div><LetestNews /></div>
+               <div><ZebraCompo/></div>
             </div>
         );
     }
