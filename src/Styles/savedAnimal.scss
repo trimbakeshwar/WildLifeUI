@@ -2,6 +2,7 @@
 position: relative;
 bottom: 150px;
 height: 200px;
+height: auto;
 
 }
 .gallary{
@@ -14,6 +15,7 @@ height: 200px;
 }
 .imgcontainer{
     width: 100%;
+    min-height: 500px;
     display: flex;
     flex-direction: row;
     justify-content: center;

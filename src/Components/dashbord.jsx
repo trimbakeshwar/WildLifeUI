@@ -11,6 +11,9 @@ import Donationform from "./donationForm"
 import MonyDonated from "./monydonated"
 import ElephantCompo from "./elephantCompo"
 import SavedAnimal from "./savedAnimal"
+import AboutWildLife from "./aboutwildlife"
+import InfoCompo from "./infoCompo"
+import TigerBackground from "./tigerBackground"
 export default  class Dashbord extends Component{
     render() {
         return (
@@ -22,6 +25,9 @@ export default  class Dashbord extends Component{
                <div><MonyDonated /></div>
                <div><ElephantCompo /></div>
                <div><SavedAnimal/></div>
+               <div><AboutWildLife/></div>
+               <div><InfoCompo/></div>
+               <div><TigerBackground/></div>
             </div>
         );
     }
