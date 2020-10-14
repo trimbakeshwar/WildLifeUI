@@ -5,7 +5,7 @@ import ZebraBackground from "../Assetes/ZebraBackground.jpg"
 export default class ZebraCompo extends Component {
     render() {
         return (
-            <div >
+            <div className="zebraCon" >
                 <div className="ZebraBackground">
                     <img
                         className="d-block w-100"
