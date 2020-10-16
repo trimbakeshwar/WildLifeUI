@@ -1,10 +1,11 @@
-.lowerhedderContainer{
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+@import "./smacss/layout.scss";
+// .lowerhedderContainer{
+//   display: flex;
+//   flex-direction: row;
+//   justify-content: space-around;
  
-  width: 100%;
-}
+//   width: 100%;
+// }
 .logo{
    padding-top: 12px;
 }

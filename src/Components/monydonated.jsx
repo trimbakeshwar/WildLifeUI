@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import "../Styles/MonyDonated.scss"
-
+//import "../Styles/MonyDonated.scss"
+import "../Styles/smacss/index.scss"
 
 export default class MonyDonated extends Component {
     constructor(props){

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import "../Styles/MonyDonated.scss"
-import "../Styles/savedAnimal.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/MonyDonated.scss"
+//import "../Styles/savedAnimal.scss"
 import image1 from "../Assetes/image1.jpg";
 import image2 from "../Assetes/image2.jpg";
 import image3 from "../Assetes/image3.jpg";

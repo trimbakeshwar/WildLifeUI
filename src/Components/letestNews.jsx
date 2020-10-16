@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import "../Styles/LetestNews.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/LetestNews.scss"
 
 export default class LetestNews extends Component {
     constructor(props){

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import "../Styles/InfoCompo.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/InfoCompo.scss"
 import sun from "../Assetes/sun.png"
 import tigerhand from "../Assetes/tigerhand.png"
 import trophy from "../Assetes/trophy.png"

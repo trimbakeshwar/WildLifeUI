@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import Carousel from 'react-bootstrap/Carousel'
 import swiperslide1 from '../Assetes/swiperslide1.jpg'
 import swiperslide2 from '../Assetes/swiperslide2.jpg'
-import "../Styles/swiper.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/swiper.scss"
 import "bootstrap/dist/css/bootstrap.min.css";
 import LowerHedder from "./lowerheder"
 export default  class Swiper extends Component{

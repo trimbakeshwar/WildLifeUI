@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import "../Styles/TigerBackground.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/TigerBackground.scss"
 import TigherBackground from "../Assetes/TigherBackground.jpg"
 
 export default class TigerBackground extends Component {

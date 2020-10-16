@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import "../Styles/MonyDonated.scss"
-import "../Styles/savedAnimal.scss"
-import "../Styles/partner.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/MonyDonated.scss"
+//import "../Styles/savedAnimal.scss"
+//import "../Styles/partner.scss"
 import Partner1 from "../Assetes/Partner1.png"
 import Partner2 from "../Assetes/Partner2.png"
 import Partner3 from "../Assetes/Partner3.png"

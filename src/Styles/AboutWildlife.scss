@@ -1,13 +1,14 @@
-.AboutWildLifeContainer{
-display: flex;
-flex-direction: row;
-padding: 150px 150px 100px 150px;
-justify-content: space-between;
-//align-items: center;
-background-color: #323232;
-height: auto;
+@import "./smacss/layout.scss";
+// .AboutWildLifeContainer{
+// display: flex;
+// flex-direction: row;
+// padding: 150px 150px 100px 150px;
+// justify-content: space-between;
+// //align-items: center;
+// background-color: #323232;
+// height: auto;
 
-}
+// }
 .humanPhoto{
     display: inline-block;
     max-width: 100%;
@@ -49,10 +50,10 @@ margin-top: 10px;
      
      font-weight:600 ;
  }
- .ReadMoresbuttonss:hover{
-     background-color:#FEBF1C ; 
-     color: white;
- }
+//  .ReadMoresbuttonss:hover{
+//      background-color:#FEBF1C ; 
+//      color: white;
+//  }
  .desc{
      color: white;;
      font-size: 20px;

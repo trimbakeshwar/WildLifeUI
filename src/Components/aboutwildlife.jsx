@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import "../Styles/AboutWildlife.scss"
-import "../Styles/elemphant.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/AboutWildlife.scss"
+//import "../Styles/elemphant.scss"
 import humanPhoto from "../Assetes/humanPhoto.jpg"
 export default class AboutWildLife extends Component {
     render() {

@@ -1,10 +1,11 @@
-.mainCon{
-   display: flex;
-   flex-direction: column;
-   height: auto;
-   position: relative;
-   bottom: 200px;
-}
+@import "./smacss/layout.scss";
+// .mainCon{
+//    display: flex;
+//    flex-direction: column;
+//    height: auto;
+//    position: relative;
+//    bottom: 200px;
+// }
 .infoCon{
     display: flex;
     flex-direction: row;
@@ -26,16 +27,19 @@
    color: white;
    border-radius: 5px;
 }
- 
+//  .dateCon:hover{
+//      background-color:#FEBF1C ;
+    
+//  }
 .hedCon{
     font-size: 22px;
     line-height: 1.3;
     margin-top: 20px;
     font-weight: 700;
 } 
-.hedCon:hover{
-    color: #FEBF1C;
-}
+// .hedCon:hover{
+//     color: #FEBF1C;
+// }
 .descCon{
     margin-top: 20px;
     font-size: 20px;
@@ -48,6 +52,6 @@ color: #000000;
     font-size: 18px;
     font-weight: 500;
 }
-.readMore:hover{
-    color: #FEBF1C;  
-}
+// .readMore:hover{
+//     color: #FEBF1C;  
+// }

@@ -3,7 +3,8 @@ import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import IconButton from '@material-ui/core/IconButton';
-import "../Styles/heder.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/heder.scss"
 import ShoppingCartOutlinedIcon from '@material-ui/icons/ShoppingCartOutlined';
 import FavoriteBorderOutlinedIcon from '@material-ui/icons/FavoriteBorderOutlined';
 import LaunchIcon from '@material-ui/icons/Launch';

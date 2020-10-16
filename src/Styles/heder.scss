@@ -1,3 +1,4 @@
+@import "./smacss/layout.scss";
 .headerName{
     color: #B0D2ED;
     font-weight: 700;
@@ -31,12 +32,12 @@ align-items: center;
 justify-content: space-around;
 width: 40%;
 } 
-.hedderContainer{
-    display: flex;
-    flex-direction: row;
-   justify-content: space-between;
-    width: 100%;
-}
+// .hedderContainer{
+//     display: flex;
+//     flex-direction: row;
+//    justify-content: space-between;
+//     width: 100%;
+// }
 .buttonContainer{
     display: flex;
     flex-direction: row;

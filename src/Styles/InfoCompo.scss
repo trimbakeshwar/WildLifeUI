@@ -1,11 +1,12 @@
-.infoContainer{
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 100px;
-justify-content: space-around;
-height: auto;
-} 
+@import "./smacss/layout.scss";
+// .infoContainer{
+// display: flex;
+// flex-direction: row;
+// align-items: center;
+// padding: 100px;
+// justify-content: space-around;
+// height: auto;
+// } 
 
 .hedContainer{
     font-size: 22px;
@@ -13,9 +14,9 @@ height: auto;
     margin-top: 20px;
     font-weight: 700;
 } 
-.hedContainer:hover{
-    color: #FEBF1C;
-}
+// .hedContainer:hover{
+//     color: #FEBF1C;
+// }
 .descContainer{
 margin-top: 20px;
 font-size: 20px;

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import "../Styles/elemphant.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/elemphant.scss"
 import Elephant from "../Assetes/Elephant.jpg"
 export default class ElephantCompo extends Component {
     render(){

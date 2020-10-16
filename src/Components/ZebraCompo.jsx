@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import "../Styles/ZebraCompo.scss"
+import "../Styles/smacss/index.scss"
+//import "../Styles/ZebraCompo.scss"
 import ZebraBackground from "../Assetes/ZebraBackground.jpg"
 
 export default class ZebraCompo extends Component {

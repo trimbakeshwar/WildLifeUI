@@ -1,3 +1,4 @@
+@import "./smacss/layout.scss";
 .ZebraBackground{
     position: relative;
     bottom: 100px;
@@ -39,16 +40,17 @@
     border-radius: 5px;
     padding:5px;
 }
-.zebrabutton:hover{
-    background-color: white;
-    color:#FEBF1C;
-    font-size: 15px;
-    margin-left: 20px;
-    width:230px;
-    height: 49px;
-    border-radius: 5px;
-    padding:5px;
-}
+// .zebrabutton:hover{
+//     background-color: white;
+//     color:#FEBF1C;
+//     font-size: 15px;
+//     margin-left: 20px;
+//     width:150px;
+//     height: 59px;
+//     font-size: 18px;
+//     border-radius: 5px;
+//     padding:5px;
+// }
 .zebraCon{
     height: 450px;
 }

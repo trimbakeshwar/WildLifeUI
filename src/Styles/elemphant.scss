@@ -1,4 +1,4 @@
-
+@import "./smacss/layout.scss";
 
 .elephanthedding{
 position: relative;
@@ -22,10 +22,10 @@ right: 40px;
      
      font-weight:600 ;
  }
- .ReadMorebuttonss:hover{
-     background-color:#FEBF1C ; 
-     color: white;
- }
+//  .ReadMorebuttonss:hover{
+//      background-color:#FEBF1C ; 
+//      color: white;
+//  }
 .timeStyle{
     -webkit-text-stroke: 2px #ffffff;
     color: transparent;

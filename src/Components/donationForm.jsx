@@ -1,5 +1,6 @@
 import React from "react";
-import "../Styles/Donationform.scss";
+import "../Styles/smacss/index.scss"
+//import "../Styles/Donationform.scss";
 import Button from "react-bootstrap/Button";
 
 export default function Donationform() {
